@@ -2,7 +2,7 @@
 published: true
 ---
 
-## How to Create a Google Classroom
+##Simple step by step on getting started.
 
 Google Classroom is a powerful tool for teachers. Not even a year old yet, its growth has been exponential because of the powerful tools it provides teachers. A paperless, a buzz word that seemed more like a distant fantasy, is much closer to reality because of Google Classroom.
 
