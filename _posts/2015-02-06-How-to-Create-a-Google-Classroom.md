@@ -1,6 +1,7 @@
 ---
 published: true
-tags: [google-classroom]
+category: programming
+tags: [google-classroom, classroom]
 ---
 
 ##Simple step by step on getting started.
