@@ -1,5 +1,6 @@
 ---
 published: true
+tags: [Google Classroom, Google, techyeslogy]
 ---
 
 ##Simple step by step on getting started.
