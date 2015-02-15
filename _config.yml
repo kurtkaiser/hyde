@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Howdy
 tagline:          'A website'
 description:      'none'
-url:              
+url:              ''
 baseurl:          /
 
 author:
