@@ -21,7 +21,7 @@ title: Home
                 {% endif %}
             {% endfor %}
             {% if category %}
-                {% capture category_content %} under <span class="label" style="background-color:{{ category.color }}"><a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a></span>{% endcapture %}
+                {% capture category_content %}<span class="label" style="background-color:{{ category.color }}"><a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a></span>{% endcapture %}
             {% endif %}
         {% else %}
             {% assign category_content = '' %}
