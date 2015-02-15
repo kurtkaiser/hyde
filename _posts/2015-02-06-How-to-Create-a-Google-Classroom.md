@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: A Simple Start to Google Classroom
 category: programming
 tags: [google-classroom, classroom]
 ---
