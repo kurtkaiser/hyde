@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Simple Start to Google Classroom
+title: A Simple Start to Google Classroomo
 category: programming
 tags: [google-classroom, classroomo]
 ---
