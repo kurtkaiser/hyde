@@ -26,10 +26,10 @@ published: true
 /************************************************/
 
 <div class="post">
-  <h6 class="post-title">{{ page.title }}</h1>
+  <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  <p id="post-meta">{{ tags_content }}</p>
   {{ content }}
+   <p id="post-meta">{{ tags_content }}</p>
 </div>
 
 <div class="related">
@@ -46,5 +46,4 @@ published: true
       </li>
     {% endfor %}
   </ul>
- <p id="post-meta">{{ tags_content }}</p>
 </div>
