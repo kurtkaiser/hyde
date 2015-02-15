@@ -44,8 +44,9 @@ title: Home
             {% assign tags_content = '' %}
         {% endif %}
         <br><br>
-        <em><p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p></em>
-        <span class="post-date">{{ post.date | date_to_string }}</span>
+        <em><p id="post-meta">Posted on <span class="post-date">{{ post.date | date_to_string }}</span>, under
+        {{ category_content }}{{ tags_content }}</p></em>
+        
        
   </div>
   {% endfor %}
