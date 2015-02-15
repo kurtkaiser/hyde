@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Howdy
 tagline:          'A website'
-description:      'kurtkaiser.us'
-url:              kurtkaiser.us
+description:      'none'
+url:              
 baseurl:          /
 
 author:
