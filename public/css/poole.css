@@ -251,6 +251,10 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/* Youtube */
+iframe.youtube {
+  padding-left:5em;
+}
 
 /*
  * Custom type
