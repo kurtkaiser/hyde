@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    
     {{ post.content }}
     {% if post.category %}
             {% for site_category in site.data.categories %}
@@ -45,6 +45,7 @@ title: Home
         {% endif %}
         <div class = "message">
         <em><p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p></em>
+        <span class="post-date">{{ post.date | date_to_string }}</span>
         </div>
   </div>
   {% endfor %}
